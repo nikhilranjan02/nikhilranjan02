@@ -125,41 +125,38 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Developer Achievements
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=nikhilranjan02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="Nikhil's GitHub Trophies"
-  />
+
+<img src="https://img.shields.io/badge/💻-Software%20Engineer-00AEEF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🤖-AI%2FML%20Learner-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡-Backend%20Developer-FF6B35?style=for-the-badge&labelColor=0D1117" />
+
 </p>
 
----
-
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/nikhilranjan02/nikhilranjan02/output/github-contribution-grid-snake-dark.svg"
-    alt="Nikhil's GitHub Contribution Snake"
-  />
+
+<img src="https://img.shields.io/badge/🚀-Full%20Stack%20Development-2EA44F?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🧠-DSA%20%26%20Problem%20Solving-F7DF1E?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-2496ED?style=for-the-badge&labelColor=0D1117" />
+
 </p>
 
 ---
 ## 💭 Developer Mindset
 
+<h2 align="center">🚀 Keep Building. Keep Learning. Keep Growing.</h2>
+
 <p align="center">
   <i>
-    "Build. Learn. Break. Fix. Repeat. 🚀"
+    "Great software is not just written — it's engineered, tested, improved, and continuously learned from."
   </i>
 </p>
 
 <p align="center">
-  <b>Always learning. Always building. Always improving.</b>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you find my work interesting, consider giving my repositories a star!
+  💻 Software Engineering &nbsp; • &nbsp;
+  🤖 AI / ML &nbsp; • &nbsp;
+  ⚙️ Backend &nbsp; • &nbsp;
+  🚀 Full Stack
 </p>
