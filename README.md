@@ -103,12 +103,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilranjan01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilranjan01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nikhilranjan02&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Nikhil's GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilranjan02&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Nikhil's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilranjan01&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=nikhilranjan02&theme=tokyonight&hide_border=true"
+    alt="Nikhil's GitHub Streak"
+  />
 </p>
 
 ---
@@ -116,7 +128,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilranjan01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nikhilranjan02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="Nikhil's GitHub Trophies"
+  />
 </p>
 
 ---
@@ -124,31 +139,13 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilranjan01/nikhilranjan01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/nikhilranjan02/nikhilranjan02/output/github-contribution-grid-snake-dark.svg"
+    alt="Nikhil's GitHub Contribution Snake"
+  />
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/nikhil-ranjan-bb83b025a">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://instagram.com/nikhil_ranjan_01/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-
-<a href="https://leetcode.com/nikhilranjan01">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
-</a>
-
-</p>
-
----
-
 ## 💭 Developer Mindset
 
 <p align="center">
